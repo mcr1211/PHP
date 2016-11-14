@@ -1,0 +1,5 @@
+AuthName "Contenido restringido"
+AuthType Basic
+AuthUserFile C:\xampp\htdocs\Proves\Prueba1\contrase
+
+require valid-user
